@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.cairoanimation" version="1.0.0">
+	<profile name="wearable" />
+	<ui-application appid="org.example.cairoanimation" exec="cairoanimation" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>cairoanimation.png</icon>
+		<label>cairoanimation</label>
+	</ui-application>
+</manifest>
